@@ -26,3 +26,6 @@
   * **admin.cpp**            - contains all functions of admin class 
 * **db.dat**  -  main database containing all registered students file name 
 * **attendance.dat** -  contains all the leave application submitted by the students along with name and date.
+
+
+All the instructions are given to execute the project.
